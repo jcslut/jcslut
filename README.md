@@ -2,4 +2,3 @@
 
 <br/>
 <div align="center">
-  | <img width="400" height="400" alt="IMG_1754" src="https://github.com/user-attachments/assets/af8e98d9-9508-4d07-ac5b-2ad30d4730b8" /> | 
